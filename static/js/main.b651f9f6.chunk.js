@@ -1,2 +1,0 @@
-(this["webpackJsonptodo-react"]=this["webpackJsonptodo-react"]||[]).push([[0],{10:function(t,e,c){"use strict";c.r(e);var n=c(1),o=c.n(n),r=c(3),s=c.n(r),d=(c(8),c(0));var a=function(){return Object(d.jsx)("div",{className:"todo-app",children:Object(d.jsx)("h1",{children:"todo"})})};s.a.render(Object(d.jsx)(o.a.StrictMode,{children:Object(d.jsx)(a,{})}),document.getElementById("root"))},8:function(t,e,c){}},[[10,1,2]]]);
-//# sourceMappingURL=main.b651f9f6.chunk.js.map
